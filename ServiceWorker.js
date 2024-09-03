@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Test Avi-1.0";
 const contentToCache = [
     "Build/868ad3e5f43e7a2d53d450d58e45443c.loader.js",
-    "Build/cd87acfcccf0f23d88d1be77c3161441.framework.js.br",
-    "Build/511297c7395b5cd384b2544bd9d48bf8.data.br",
-    "Build/fdbe0027d0b81565558683c7350634bb.wasm.br",
+    "Build/cd87acfcccf0f23d88d1be77c3161441.framework.js.gz",
+    "Build/ede021e813e169b264338ae4abee50c6.data.gz",
+    "Build/fdbe0027d0b81565558683c7350634bb.wasm.gz",
     "TemplateData/style.css"
 
 ];
