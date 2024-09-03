@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: 52e2eecb57d38ca44a2387ded6ff6ca1
   m_SerializeEntries:
   - m_GUID: 1b87de21c89d0ab4290e5c004bd21f1c
-    m_Address: "Assets/\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430/\u0430\u0442\u043B\u0430\u0441.spriteatlasv2"
+    m_Address: Assets/Textures/Atlas.spriteatlasv2
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

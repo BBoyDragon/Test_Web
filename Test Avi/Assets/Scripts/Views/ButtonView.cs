@@ -19,7 +19,7 @@ public class ButtonView : MonoBehaviour
 
     private void Click()
     {
-        _animator.SetBool("anim", true);
+        _animator.SetBool("Fading", true);
         OnButtonPressed?.Invoke();
     }
 
